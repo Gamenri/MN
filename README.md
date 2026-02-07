@@ -1,2 +1,4 @@
-# MN
-Portafolio de ejercicios hechos en clase de Metodos Numericos
+# ===Estructura General===
+- MN
+  - /U1
+    - /
